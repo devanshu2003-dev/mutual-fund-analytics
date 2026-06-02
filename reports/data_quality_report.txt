@@ -1,0 +1,6 @@
+DATA QUALITY SUMMARY
+----------------------------------------
+Fund Master Codes: 40
+NAV History Codes: 46000
+Missing Codes: 0
+All AMFI codes validated successfully.
