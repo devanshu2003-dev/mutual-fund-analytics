@@ -26,3 +26,4 @@ for fund_name , fund in funds.items():
     fund_df.to_csv(f"D:\\Bluestock\\mutual-fund-analytics\\data\\raw\\{fund_name}.csv" , index = False)
 
 print("\n File saved successfully for the funds \n")
+
