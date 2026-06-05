@@ -246,7 +246,7 @@ fund_manager           object
 risk_category          object
 sebi_category_code     object   """
 
-# Save all cleaned datasets to data/processed/
+# Saving all cleaned datasets to data/processed/
 
 fund_master.to_csv(
     "data/processed/clean_fund_master.csv",
